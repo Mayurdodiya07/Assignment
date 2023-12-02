@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    background-color: bisque;
+}
+p{
+    font-style: italic;
+    background-color: azure;
+    text-decoration: solid;
+}
